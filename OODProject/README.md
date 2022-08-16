@@ -1,7 +1,6 @@
 # Discord Afeka
 ## Social media for gamers (made with JavaFX)
-### meet new friends with the same interests
-### chat with your friends!
+### meet new friends with the same interests and chat with your friends!
 
 ## Login Screen
 ![image](https://user-images.githubusercontent.com/60986160/184987100-06bfd638-36be-4550-8e85-7631986eee7b.png)
